@@ -1,3 +1,3 @@
 # Campo minado
 
-Eu só tinha dois anos quando escrevi esses códioos, me descupem.
+Eu só tinha dois anos quando escrevi esses códigos, me descupem.
